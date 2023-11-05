@@ -1,2 +1,2 @@
 # portfolio
-https://suchitadarode.github.io/portfoliom
+https://suchitadarode.github.io/portfolio/
