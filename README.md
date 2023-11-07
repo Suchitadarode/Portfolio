@@ -1,2 +1,2 @@
 # portfolio
-https://suchitadarode.github.io/portfolio/
+Portfolio website using html,css and java script.
